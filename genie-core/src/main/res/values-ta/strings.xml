@@ -37,7 +37,7 @@
     <string name="msg_home_sync_dialog_prompt">Sync your data with Genie servers to get personalized recommendations and to help us improve our service.</string>
     <string name="error_home_genie_offline">Genie is offline, Please connect to internet !</string>
     <string name="error_home_no_network">இன்னும் நிறைய பாடங்களுக்காக இணையத்துடன் இனையிங்கள்.</string>
-    <string name="no_data_found">வேறு தகவல்கள் இல்லை</string>
+    <string name="no_data_found">முடிவுகள் எதுவும் இல்லை</string>
     <string name="label_home_coming_soon">விரைவில் வர இருக்கிறது</string>
     <string name="msg_home_packaging_genie">Packaging Genie&#8230;</string>
     <string name="device_low_memory_error">Your device is running low on memory. Would you like to make some storage space free?</string>

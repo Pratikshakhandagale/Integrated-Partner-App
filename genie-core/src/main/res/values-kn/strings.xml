@@ -35,7 +35,7 @@
     <string name="msg_home_sync_dialog_prompt">ನಿಮಗೇ ವಿಶಿಷ್ಟವಾದ ಸಲಹೆಗಳನ್ನು ಪಡೆಯಲು ಮತ್ತು ನಮ್ಮ ಸೇವೆಯನ್ನು ಉತ್ತಮಗೊಳಿಸಲು ನಿಮ್ಮ ದತ್ತಾಂಶವನ್ನು ಜೀನಿ ಸರ್ವರ್ ಜೊತೆ ಹೊಂದಿಕೆ ಮಾಡಿ </string>
     <string name="error_home_genie_offline">ಜೀನಿ ಆಫ್‍ಲೈನ್ ಆಗಿದೆ, ಇಂಟರ್ನೆಟ್‍ಗೆ ಸಂಪರ್ಕ ಕೊಡಿ!</string>
     <string name="error_home_no_network">ಹೆಚ್ಚು ವಿಷಯವಸ್ತು ಪಡೆಯಲು ಇಂಟರ್ನೆಟ್ ಗೆ ಸಂಪರ್ಕ ಹೊಂದಿ</string>
-    <string name="no_data_found">ಯಾವುದೇ ಡೇಟಾ ಕಂಡುಬಂದಿಲ್ಲ</string>
+    <string name="no_data_found">ಯಾವುದೇ ಫಲಿತಾಂಶಗಳು ಕಂಡುಬರಲಿಲ್ಲ</string>
     <string name="label_home_coming_soon">ಬೇಗನೆ ಬರಲಿದೆ</string>
     <string name="msg_home_packaging_genie">ಜೀನೀಯನ್ನು ಕಳಿಸಲು ಸಿದ್ಧಗೊಳಿಸಲಾಗುತ್ತಿದೆ</string>
     <string name="device_low_memory_error">Your device is running low on memory. Would you like to make some storage space free?</string>
