@@ -35,7 +35,6 @@
     <string name="msg_home_sync_dialog_prompt">జీనీ సర్వర్లతో మీ డేటా వ్యక్తిగతీకరించిన సిఫార్సులను పొందడానికి సమకాలీకరించడానికి మరియు మా సేవలను మెరుగుపరచడానికి సహాయం.</string>
     <string name="error_home_genie_offline">Genie is offline, Please connect to internet !</string>
     <string name="error_home_no_network">మరింత కంటెంట్ పొందడానికి ఇంటర్నెట్కి కనెక్ట్ చేయండి</string>
-    <string name="no_data_found">ఎటువంటి ఫలితాలు లభించలేదు</string>
     <string name="label_home_coming_soon">Coming soon</string>
     <string name="msg_home_packaging_genie">జీనీ పంచుకొనేందుకు సిద్ధమవుతోంది</string>
     <string name="device_low_memory_error">Your device is running low on memory. Would you like to make some storage space free?</string>

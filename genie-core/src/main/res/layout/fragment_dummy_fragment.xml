@@ -4557,7 +4557,7 @@
                     android:paddingBottom="@dimen/size_10"
                     android:paddingLeft="@dimen/size_10"
                     android:paddingTop="@dimen/size_10"
-                    android:text="@string/no_data_found"
+                    android:text="@string/error_search_no_content"
                     android:textColor="@color/dark_grey"
                     android:textSize="16sp" />
 
@@ -4569,7 +4569,7 @@
                     android:paddingBottom="@dimen/size_10"
                     android:paddingLeft="@dimen/size_10"
                     android:paddingTop="@dimen/size_10"
-                    android:text="@string/no_data_found"
+                    android:text="@string/error_search_no_content"
                     android:textColor="@color/dark_grey"
                     android:textSize="16sp" />
             </LinearLayout>

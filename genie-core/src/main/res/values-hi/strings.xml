@@ -35,7 +35,6 @@
     <string name="msg_home_sync_dialog_prompt">जीनी सर्वर के साथ अपने डेटा व्यक्तिगत सिफारिशें पाने के लिए सिंक और हमें हमारी सेवा में सुधार करने के लिए मदद</string>
     <string name="error_home_genie_offline">जिनी ऑफ़लाइन है, कृपया इंटरनेट से कनेक्ट करें!</string>
     <string name="error_home_no_network">और सामग्री के लिए इंटरनेटसे जोड़ें</string>
-    <string name="no_data_found">कोई परिणाम नहीं मिला</string>
     <string name="label_home_coming_soon">जल्द आ रहा है</string>
     <string name="msg_home_packaging_genie">जीनी को भेजने के लिए तैयार किया जा रहा है </string>
     <string name="device_low_memory_error">Your device is running low on memory. Would you like to make some storage space free?</string>

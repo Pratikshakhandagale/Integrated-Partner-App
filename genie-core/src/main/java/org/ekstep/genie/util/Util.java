@@ -222,7 +222,7 @@ public class Util {
             } else if (Constant.PAGE_FETCH_ERROR.equalsIgnoreCase(error)) {
                 textView.setText(R.string.error_timeout);
             } else if (Constant.NO_DATA_FOUND.equalsIgnoreCase(error) && genieResponse.getStatus()) {
-                textView.setText(R.string.no_data_found);
+                textView.setText(R.string.error_search_no_content);
             }else if (Constant.NO_DATA_FOUND.equalsIgnoreCase(error) && !genieResponse.getStatus()) {
                 textView.setText(R.string.error_sync_validation);
             }
